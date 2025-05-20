@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Step 1: Install necessary packages
-# !pip install pdfplumber pandas openpyxl
+ !pip install pdfplumber pandas openpyxl
 
 # Step 2: Upload PDF file
 from google.colab import files
